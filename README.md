@@ -1,2 +1,2 @@
-# SnippetExtraktor
-Create Snippets out of my PCR
+# SnippetExtractor
+Create Snippets out of source files
