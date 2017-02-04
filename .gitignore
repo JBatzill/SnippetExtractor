@@ -1,8 +1,9 @@
-<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
-=======
->>>>>>> c315737461da3a8c8a6d74e84b4da4fb8ca0cf1f
+
+out/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -48,10 +49,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *,cover
-<<<<<<< HEAD
-=======
 .hypothesis/
->>>>>>> c315737461da3a8c8a6d74e84b4da4fb8ca0cf1f
 
 # Translations
 *.mo
@@ -66,9 +64,5 @@ docs/_build/
 # PyBuilder
 target/
 
-<<<<<<< HEAD
-
-=======
 #Ipython Notebook
 .ipynb_checkpoints
->>>>>>> c315737461da3a8c8a6d74e84b4da4fb8ca0cf1f
